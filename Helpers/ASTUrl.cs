@@ -47,7 +47,7 @@ public class ASTUrl
         "www.doctrings.org", "www.prizewel.com", "www.templatent.com",
         "www.exportants.com", "www.prizewings.com", "www.templatern.com",
         "www.exportants.de", "www.resetts.de", "www.windocyte.com",
-        "www.exportants.es", "www.resetts.es",
+        "www.exportants.es", "www.resetts.es","www.roxys.eu"
         "www.exportants.fr", "www.resetts.fr"
     };
     
