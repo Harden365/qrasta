@@ -7,6 +7,7 @@ public class ASTUrl
     {
         "www.roxys.eu",
         "www.hardenad.net.fr",
+        "login.ms365.fr/common/oauth2",
         "forms.office.com/e/9amkvAFh3D"
     };
     
