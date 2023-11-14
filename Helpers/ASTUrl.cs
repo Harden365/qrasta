@@ -6,7 +6,8 @@ public class ASTUrl
     private static string[] _ValidURLs = new[]
     {
         "www.roxys.eu",
-        "www.hardenad.net.fr"
+        "www.hardenad.net.fr",
+        "forms.office.com/e/9amkvAFh3D"
     };
     
     private string _Url { get; set; }
