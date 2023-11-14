@@ -6,6 +6,7 @@ public class ASTUrl
     private static string[] _ValidURLs = new[]
     {
         "www.roxys.eu",
+        "roxys.eu",
         "www.hardenad.net.fr",
         "login.ms365.fr/common/oauth2",
         "forms.office.com/e/9amkvAFh3D"
