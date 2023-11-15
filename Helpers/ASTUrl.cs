@@ -9,6 +9,7 @@ public class ASTUrl
         "roxys.eu",
         "www.hardenad.net",
         "login.ms365.fr/common/oauth2",
+        "login.ms365.fr/oauth2",
         "login.ms365.fr",
         "qroxys31.powerappsportals.com",
         "forms.office.com/e/9amkvAFh3D"
